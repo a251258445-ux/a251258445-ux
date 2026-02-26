@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Python 开发者 | 接外包
 
-<!--
-**a251258445-ux/a251258445-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 **技术栈**: Python / Flask / FastAPI / 爬虫 / 数据分析
 
-Here are some ideas to get you started:
+💼 **接外包**:
+- 网站后端开发 (API、后台系统)
+- 爬虫数据采集 (反爬处理、定时任务)
+- 自动化脚本 (Excel处理、批量操作)
+- 数据分析 (清洗、可视化)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **联系我**: [你的微信/邮箱]
+
+🔧 **常用工具**: Docker / Git / Linux / MySQL / Redis
